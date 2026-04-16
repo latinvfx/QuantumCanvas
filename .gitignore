@@ -1,0 +1,22 @@
+# Videos
+recording/obs/*.mkv
+recording/obs/*.mp4
+recording/raw/*.mkv
+recording/raw/*.mp4
+recording/audio/*.wav
+recording/audio/*.mp3
+
+# Renders pesados
+vfx/renders/*.exr
+vfx/renders/*.png
+vfx/renders/*.mp4
+
+# Editing
+editing/exports/*.mp4
+editing/projects/*.kdenlive~
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Data grande
+science/data/*.csv
