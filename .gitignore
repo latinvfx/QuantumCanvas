@@ -19,4 +19,3 @@ editing/projects/*.kdenlive~
 **/.ipynb_checkpoints/
 
 # Data grande
-science/data/*.csv
